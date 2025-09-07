@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Thumbnail Compositor",
+  "description": "An AI-powered tool to generate click-through-rate optimized YouTube thumbnails based on your prompts, reference images, and branding.",
+  "requestFramePermissions": []
+}
